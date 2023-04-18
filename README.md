@@ -34,7 +34,7 @@ Today I will show you how to build dockerfile and docker compose easily. Just re
 ## Run Docker Compose
 
 - Firstly, you set name of your image in **docker-compose.yml**. You have to set what you did name last part of section. For example, I'll set **image: hello-internet**.
-- After then, ,n **Homework1** file write **sudo docker compose up -d** your docker compose will work successfully and this working background through -d command.
+- After then, **Homework1** file write **sudo docker compose up -d** your docker compose will work successfully and this working background through -d command.
 - When you visit localhost:80, you'll see html page. And if you want to stop docker compose, you should write **sudo docker compose down** in your terminal.
 
 Yepp, That's all! Now you know how to do it!
